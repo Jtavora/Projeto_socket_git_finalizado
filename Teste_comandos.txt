@@ -1,0 +1,19 @@
+clear
+git branch branch1
+git branch branch2
+git branch
+git checkout branch1
+git commit -m teste_branch1
+git checkout branch2
+git commit -m teste_branch2
+git log
+git push
+(Ctrl + c) -- Finaliza cliente
+
+./prog.exe (Terimanl Linux para abrir novo cliente)
+clear
+git pull
+git log
+git branch
+(Ctrl + c) -- Finaliza cliente
+
